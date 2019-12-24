@@ -1,6 +1,6 @@
 # gogogopher
 
-[gopherascii]("./img/gopherascii.jpg")
+![gopherascii](img/gopherascii.jpg)
 
 ## Usage
 
