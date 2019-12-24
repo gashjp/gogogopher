@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	file, _ := os.Open("./img/gopher.png")
+	file, _ := os.Open("img/gopher.png")
 	src, _, err := image.Decode(file)
 	if err != nil {
 		fmt.Printf(err.Error() + "\n")
